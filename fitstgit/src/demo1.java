@@ -13,5 +13,6 @@ public class demo1 {
 
     public void fun2(){
         System.out.println("fun2");
+         System.out.println("GitHub修改了这里");
     }
 }
