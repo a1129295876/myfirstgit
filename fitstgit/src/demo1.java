@@ -8,6 +8,6 @@ public class demo1 {
     }
 
     public void fun2(){
-         System.out.println("GITHUB上后提交");
+        System.out.println("本地先commit");
     }
 }
