@@ -8,5 +8,10 @@ public class demo1 {
         System.out.println("123");
         System.out.println("这条是我在github上修改的");
 
+
+    }
+
+    public void fun2(){
+        System.out.println("fun2");
     }
 }
