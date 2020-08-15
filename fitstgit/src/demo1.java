@@ -12,6 +12,8 @@ public class demo1 {
     }
     public void fun3(){
         System.out.println("今天github先更新了一波");
+        System.out.println("GitHub在本地commit后，push前又提交了一波");
     }
 
+   
 }
