@@ -8,8 +8,7 @@ public class demo1 {
     }
 
     public void fun1(){
-        System.out.println("利用这条语句制造冲突，等一下在本地删除");
-        //我人傻了，还在编辑的东西没了
+        System.out.println("下面开始制造冲突");
     }
 
    
