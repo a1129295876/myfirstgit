@@ -13,5 +13,8 @@ public class demo1 {
     public void fun3(){
         System.out.println("今天github先更新了一波");
     }
+    public void fun4(){
+        System.out.println("本地先commit了");
+    }
 
 }
