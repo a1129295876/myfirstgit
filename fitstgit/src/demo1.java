@@ -7,7 +7,9 @@ public class demo1 {
 
     }
 
-
+    public void fun1(){
+        System.out.println("利用这条语句制造冲突，等一下在本地删除");
+    }
 
    
 }
